@@ -1,0 +1,18 @@
+export default {
+  'menu.home': 'Home',
+  'menu.auth': 'User',
+  'menu.auth.login': 'Login',
+  'menu.assets': '资产管理',
+  'menu.assets.dashboard': '资产大盘',
+  'menu.assets.daily-statistics': '日报',
+  'menu.assets.repayment-amounts': '还款金额统计',
+  'menu.assets.repayments': '还款笔数统计',
+  'menu.assets.bills': '账单统计',
+  'menu.rbac': '账号管理',
+  'menu.rbac.users': '用户管理',
+  'menu.rbac.roles': '角色管理',
+  'menu.exception': '错误',
+  'menu.exception.403': '无权限',
+  'menu.exception.404': '未找到',
+  'menu.exception.500': '服务器错误',
+};
